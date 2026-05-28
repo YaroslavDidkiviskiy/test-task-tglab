@@ -176,3 +176,5 @@ expedition/
 ├── requirements.txt
 └── .env.example
 ```
+
+<img width="1479" height="820" alt="image" src="https://github.com/user-attachments/assets/d61431af-967d-4666-b575-a66d5a217db1" />
